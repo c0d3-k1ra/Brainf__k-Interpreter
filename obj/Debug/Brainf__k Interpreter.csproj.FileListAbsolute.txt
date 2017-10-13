@@ -1,6 +1,0 @@
-c:\users\acer lappy\documents\visual studio 2013\Projects\Brainf__k Interpreter\Brainf__k Interpreter\bin\Debug\Brainf__k Interpreter.exe.config
-c:\users\acer lappy\documents\visual studio 2013\Projects\Brainf__k Interpreter\Brainf__k Interpreter\obj\Debug\Brainf__k Interpreter.csprojResolveAssemblyReference.cache
-c:\users\acer lappy\documents\visual studio 2013\Projects\Brainf__k Interpreter\Brainf__k Interpreter\bin\Debug\Brainf__k Interpreter.exe
-c:\users\acer lappy\documents\visual studio 2013\Projects\Brainf__k Interpreter\Brainf__k Interpreter\bin\Debug\Brainf__k Interpreter.pdb
-c:\users\acer lappy\documents\visual studio 2013\Projects\Brainf__k Interpreter\Brainf__k Interpreter\obj\Debug\Brainf__k Interpreter.exe
-c:\users\acer lappy\documents\visual studio 2013\Projects\Brainf__k Interpreter\Brainf__k Interpreter\obj\Debug\Brainf__k Interpreter.pdb
